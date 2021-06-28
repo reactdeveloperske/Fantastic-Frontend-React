@@ -1,5 +1,6 @@
 # Fantastic-Frontend-React
-A collection of learning resources to get you started in your reactjs learning
+A collection of learning resources to get you started in your reactjs learning.<br />
+Make sure you have gone through the [Contributing Guidelines](https://github.com/reactdeveloperske/Fantastic-Frontend-React/blob/main/CONTRIBUTING.md) before making a pull request
 
 ## Resources
 
