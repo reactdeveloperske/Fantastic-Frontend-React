@@ -15,7 +15,6 @@ Make sure to preview the results before making a pull request
 |  Name  | Author | Free/Paid | Link |
 | --- | --- | --- | --- |
 | Full Modern React Tutorial | [The Net Ninja](https://www.youtube.com/c/TheNetNinja) | Free | [LINK](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) |
-| --- | --- | --- | --- |
 | React Hooks Tutorial | [Codeevolution](https://www.youtube.com/c/Codevolution) | Free | [LINK](https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A) |
 | React Context & Hooks Tutorial | [The Net Ninja](https://www.youtube.com/c/TheNetNinja) | Free | [LINK](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) |
 | Full React Course 2020 | [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | Free | [LINK](https://www.youtube.com/watch?v=4UZrsTqkcW4) |
