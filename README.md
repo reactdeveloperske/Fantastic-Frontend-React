@@ -21,6 +21,7 @@ Make sure to preview the results before making a pull request
 | Learn React | [Codecademy](https://www.codecademy.com/) | Free & Paid | [LINK](https://www.codecademy.com/learn/react-101) |
 | Front End Development Libraries | [FreeCodeCamp](https://www.freecodecamp.org/learn) | Free | [LINK](https://www.freecodecamp.org/learn/front-end-libraries/) |
 | Get Started with React | [MDN Web Docs](https://developer.mozilla.org/en-US/) | Free | [LINK](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started) |
+| Learn React | [Functional Web Development with React](https://b-ok.africa/book/2885521/e24cfb) | Free | [LINK](https://b-ok.africa/book/2885521/e24cfb) |
 
 
 
