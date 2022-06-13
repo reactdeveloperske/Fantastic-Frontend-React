@@ -22,5 +22,4 @@ Make sure to preview the results before making a pull request
 | Front End Development Libraries | [FreeCodeCamp](https://www.freecodecamp.org/learn) | Free | [LINK](https://www.freecodecamp.org/learn/front-end-libraries/) |
 | Get Started with React | [MDN Web Docs](https://developer.mozilla.org/en-US/) | Free | [LINK](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started) |
 | Full Modern React Tutorial (Advenced) | [The Net Ninja](https://www.youtube.com/c/TheNetNinja) | Free | [LINK](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) |
-
-
+| Learn React for Free  | [Scrimba](https://www.scrimba.com/learn/) | Free | [LINK]( https://scrimba.com/learn/learnreact) |
