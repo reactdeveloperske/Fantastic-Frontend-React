@@ -23,3 +23,6 @@ Make sure to preview the results before making a pull request
 | Get Started with React | [MDN Web Docs](https://developer.mozilla.org/en-US/) | Free | [LINK](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started) |
 | Full Modern React Tutorial (Advenced) | [The Net Ninja](https://www.youtube.com/c/TheNetNinja) | Free | [LINK](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) |
 | Learn React for Free  | [Scrimba](https://www.scrimba.com/learn/) | Free | [LINK]( https://scrimba.com/learn/learnreact) |
+| React JS Crash Course | [Traversy Media](https://www.traversymedia.com/) | Free |[link](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4570s) |
+| Build an Expense Tracker with React Hooks & Context API | [Traversy Media](https://www.traversymedia.com/) | Free | [link](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=1&t=3s) |
+| Build a Web App with React | [Glitch](https://blog.glitch.com/post/react-starter-kit) | Free | [link](https://blog.glitch.com/post/react-starter-kit) |
