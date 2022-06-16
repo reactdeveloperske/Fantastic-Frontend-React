@@ -1,9 +1,17 @@
 # Fantastic-Frontend-React
 A collection of learning resources to get you started in your reactjs learning.<br />
-Make sure you have gone through the [Contributing Guidelines](https://github.com/reactdeveloperske/Fantastic-Frontend-React/blob/main/CONTRIBUTING.md) before making a pull request
+
+>Make sure you have gone through the [Contributing Guidelines](https://github.com/reactdeveloperske/Fantastic-Frontend-React/blob/main/CONTRIBUTING.md) before making a pull request
 
 ## Resources
 
+## Table of Contents
+- [Fantastic-Frontend-React](#fantastic-frontend-react)
+  - [Resources](#resources)
+  - [Table of Contents](#table-of-contents)
+    - [Tutorials & Blogs](#tutorials--blogs)
+    - [Courses](#courses)
+    - [Cheatsheets](#cheatsheets)
 <!---
 Copy these five lines below on the next line and add a resource
 
@@ -11,6 +19,20 @@ Copy these five lines below on the next line and add a resource
 
 Make sure to preview the results before making a pull request
 -->
+
+### Tutorials & Blogs
+
+|  Name  | Author | Free/Paid | Link |
+
+### Courses
+
+|  Name  | Author | Free/Paid | Link |
+
+### Cheatsheets
+
+|  Name  | Author | Free/Paid | Link |
+
+
 
 |  Name  | Author | Free/Paid | Link |
 | --- | --- | --- | --- |
