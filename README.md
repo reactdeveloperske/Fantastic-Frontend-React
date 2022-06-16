@@ -5,13 +5,6 @@ A collection of learning resources to get you started in your reactjs learning.<
 
 ## Resources
 
-## Table of Contents
-- [Fantastic-Frontend-React](#fantastic-frontend-react)
-  - [Resources](#resources)
-  - [Table of Contents](#table-of-contents)
-    - [Tutorials](#tutorials)
-    - [Courses](#courses)
-    - [Cheatsheets](#cheatsheets)
 <!---
 Copy these five lines below on the next line and add a resource
 
@@ -19,6 +12,15 @@ Copy these five lines below on the next line and add a resource
 
 Make sure to preview the results before making a pull request
 -->
+
+## Table of Contents
+- [Fantastic-Frontend-React](#fantastic-frontend-react)
+  - [Resources](#resources)
+  - [Table of Contents](#table-of-contents)
+    - [Tutorials](#tutorials)
+    - [Courses](#courses)
+    - [Cheatsheets](#cheatsheets)
+
 
 ### Tutorials
 
@@ -66,12 +68,3 @@ Make sure to preview the results before making a pull request
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
-
-<!-- ### Blogs & Technical Articles
-
-|  Name  | Author| Link |
-| --- | --- | --- |
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div> -->
