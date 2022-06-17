@@ -63,8 +63,3 @@ Make sure to preview the results before making a pull request
 | [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)| MIT licensed open source cheatsheet project with more than 33K stars on GitHub and lots of awesome contributors to keep the project alive and quality high. Cheatsheets for experienced React developers getting started with TypeScript |
 | [Codingcheats.io's React Cheatsheet](https://codingcheats.io/react/)| Another only functional component-based great React cheatsheet. Although not excellent in design, this cheatsheet does have excellent content. |
 | [Ohans Emmanuel's Cheatsheet](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd)| React concepts and syntax. |
-
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
