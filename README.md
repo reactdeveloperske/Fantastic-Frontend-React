@@ -53,7 +53,7 @@ Make sure to preview the results before making a pull request
 
 ### Cheatsheets
 
-| Name&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Link |
+| Name&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [React cheat sheet](http://www.developer-cheatsheets.com/react)| Developer Cheatsheets is a web development cheatsheet website by Leon Gilyadov/Downloadable to PDF |
 | [React.js cheatsheet](https://devhints.io/react)|  This guide targets React v15 to v16. |
