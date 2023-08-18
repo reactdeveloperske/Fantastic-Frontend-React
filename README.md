@@ -34,7 +34,7 @@ Make sure to preview the results before making a pull request
 | Build an Expense Tracker with React Hooks & Context API | [Traversy Media](https://www.traversymedia.com/) | Free | Video | [LINK](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=1&t=3s) | Intermediate |
 | Build a Web App with React | [Glitch](https://blog.glitch.com/post/react-starter-kit) | Free | Video | [LINK](https://blog.glitch.com/post/react-starter-kit) | Beginner |
 | Build and Deploy a React Native App, 2023 React Native Tutorial | [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) | Free | Video | [LINK](https://youtu.be/mJ3bGvy0WAY) | Beginner |
-| React Native Tutorial for Beginners | [The Net Ninja](https://www.youtube.com/@NetNinja) | Free | Video | [LINK](https://youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) | Beginner |
+| React Native Course | [FreeCodeCamp](https://www.youtube.com/@freecodecamp) | Free | Video | [LINK](https://www.youtube.com/watch?v=obH0Po_RdWk) | Beginner |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
